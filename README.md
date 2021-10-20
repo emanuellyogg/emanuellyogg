@@ -1,8 +1,8 @@
 ## Olá! Seja bem vind@! Eu sou a Emanuelly Ogg 
  <div>
   <a href="https://github.com/emanuellyogg">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emanuellyogg&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellyogg&layout=compact&langs_count=15&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuellyogg&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellyogg&layout=compact&langs_count=15&theme=monokai"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
