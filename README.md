@@ -1,4 +1,4 @@
-## Olá! Seja bem vind@! Eu sou a Emanuelly Ogg 
+## Olá! Sejam bem vindos! Eu sou a Emanuelly Ogg 
  <div>
   <a href="https://github.com/emanuellyogg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuellyogg&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
